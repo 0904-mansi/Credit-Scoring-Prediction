@@ -14,3 +14,11 @@ Furthermore, I will predominantly be adopting a quantiles based approach in orde
 This model lead to an accuracy rate of **0.800498** on Kaggle's unseen test data.
 
 I deem this accuracy rate to be acceptable given that we used a relatively simple quantile based approach and in light of the fact that no parameter optimization was undertaken.
+
+
+# Analysis Graphs for overview
+
+<img width="400" alt="Screenshot 2023-04-08 at 3 02 18 PM" src="https://user-images.githubusercontent.com/81081105/230714474-9c9e2b2b-3df8-46c3-908a-79098e157282.png">
+<img width="400" alt="Screenshot 2023-04-08 at 3 02 01 PM" src="https://user-images.githubusercontent.com/81081105/230714479-c6b2bf41-36c1-462b-9810-b08e975d4721.png">
+<img width="400" alt="Screenshot 2023-04-08 at 3 01 04 PM" src="https://user-images.githubusercontent.com/81081105/230714482-5251b58b-c605-465f-8e35-f39fdb551cbb.png">
+<img width="400" alt="Screenshot 2023-04-08 at 3 00 36 PM" src="https://user-images.githubusercontent.com/81081105/230714486-fffe138c-7573-4f6a-a4e3-b7208b870383.png">
